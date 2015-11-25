@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SnowFlake/AppDelegate.m \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SnowFlake/AppDelegate.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKButton.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKUtility.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKSettings.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKProfile.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKConstants.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKMacros.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKCopying.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Framework/FBSDKCoreKit.framework/Modules/module.modulemap \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Reachability/Reachability.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/ServerConnection/ServerRequests.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Reachability/SimplePinger.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/Reachability/SimplePing.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SCLAlertView/SCLAlertView.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SCLAlertView/SCLButton.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SCLAlertView/SCLTextView.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/SnowFlake/MMatchViewController.h \
+  /Users/newagesmb/Desktop/Ananthu/SnowFlake/RevealViewController/SWRevealViewController.h
